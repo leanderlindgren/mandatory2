@@ -1,6 +1,6 @@
 # matmek4270-mandatory2
 
-[![MAT-MEK4270 mandatory 2](https://github.com/MATMEK-4270/leanderlindgren/actions/workflows/main.yml/badge.svg)](https://github.com/leanderlindgren/matmek4270-mandatory2/actions/workflows/main.yml)
+[![MAT-MEK4270 mandatory 2](https://github.com/leanderlindgren/mandatory2/actions/workflows/main.yml/badge.svg)](https://github.com/leanderlindgren/matmek4270-mandatory2/actions/workflows/main.yml)
 
 Please see instructions in [the book](https://matmek-4270.github.io/matmek4270-book/mandatory2.html).
 
